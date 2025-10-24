@@ -22,11 +22,11 @@ Shopping Info Vault to store all payment information.
 
 | Feature                 | Description                                                                                  | Priority      |
 |-------------------------|----------------------------------------------------------------------------------------------|---------------|
-| Authentication          | Users should be able to login using biometric authentication methods such as Face ID or Touch ID.<br>The system should capture and verify biometric data using the device's sensors. | 🥈 Medium     |
+| Authentication          | Users should be able to login using biometric authentication methods such as Face ID or Touch ID.<br>The system should capture and verify biometric data using the device's sensors. |🥈 Medium     |
 | Cards Management        | The system should validate the information of the creedit card securely store it within the user’s device.<br>This ensures quick access while maintaining user privacy and security. | 🥇 High       |
-| Addresses Management    | The user should be able to add an address.<br>The system should prompt the user to provide multiple details, such as country, city, street, building number, and postal code. | ⏳ Planned    |
-| Transaction Processing  | The system should identify and record the shop where the user makes their purchases,<br>associated with the amount of the transaction and current date and time.<br>This information should be captured during the transaction process. | ✅ Complete   |
-| Software Settings       | The user should be able to enable or disable biometric authentication (such as Face ID or fingerprint) from the app settings.<br>The selected state (enabled or disabled) should be saved securely on the user’s device and applied the next time the app is opened. | ✅ Complete   |
+| Addresses Management    | The user should be able to add an address.<br>The system should prompt the user to provide multiple details, such as country, city, street, building number, and postal code. |  🥈Medium   |
+| Transaction Processing  | The system should identify and record the shop where the user makes their purchases,<br>associated with the amount of the transaction and current date and time.<br>This information should be captured during the transaction process. | 🥇 High  |
+| Software Settings       | The user should be able to enable or disable biometric authentication (such as Face ID or fingerprint) from the app settings.<br>The selected state (enabled or disabled) should be saved securely on the user’s device and applied the next time the app is opened. | 🥈 Medium  |
 
 ## Screenshots 📱
 <p align="center">
